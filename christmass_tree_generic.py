@@ -1,5 +1,3 @@
-from colorama import Fore, Back, Style
-
 def tree():
     count = 0
     trunk = 0
