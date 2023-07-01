@@ -17,7 +17,7 @@ import turtle
 #         turtle.right(star_angle)
 #         turtle.forward(star_size)
 #         turtle.right(72 - star_angle)
-#
+#s
 #     print(turtle.end_fill())
 
 
